@@ -8,8 +8,7 @@ function ServiceItem({ src, title }) {
         <img src={src} width="128px" />
         <h3 className="mt-5">{title}</h3>
         <p>
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Delectus
-          harum eum odit tempore quos dolor nesciunt rerum est totam alias.
+          Lorem ipsum dolor
         </p>
       </div>
     </Fade>

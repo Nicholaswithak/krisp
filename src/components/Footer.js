@@ -7,12 +7,6 @@ function Footer() {
       <footer className="py-2" style={{ backgroundColor: "#5E35B1" }}>
         <div className="container">
           <p className="float-right">Krisp | © Copyright 2019</p>
-          <p>
-            Design Inspired from{" "}
-            <a href="https://graphicburger.com/cuda-single-page-portfolio-template/">
-              Cuda
-            </a>
-          </p>
           <div className="freepik">
             Icons made by{" "}
             <a
@@ -36,10 +30,7 @@ function Footer() {
             <br />
             <br />
           </div>
-          <h6>
-            Created and Presented by{" "}
-            <a href="http://github.com/mohanmonu777">Mohan</a>
-          </h6>
+
         </div>
       </footer>
     </div>

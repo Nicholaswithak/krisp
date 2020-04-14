@@ -16,7 +16,6 @@ export default function End() {
               <p>
                 <label>Your Email: <input type="email" name="email" /></label>
               </p>
-
               <p>
                 <label>Message: <textarea name="message"></textarea></label>
               </p>
